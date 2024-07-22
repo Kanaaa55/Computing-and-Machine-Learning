@@ -1,2 +1,2 @@
 # Computing-and-Machine-Learning
-Cal Poly SLO GSB 544
+Cal Poly SLO GSB-544

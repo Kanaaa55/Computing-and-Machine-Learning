@@ -1,2 +1,2 @@
 # Computing-and-Machine-Learning
-Cal Poly SLO GSB-544
+GSB-544: Introduction to programming in python for data analysis and predictive learning.
